@@ -1,0 +1,9 @@
+#!/bin/bash
+
+USER_NAME="username"
+USER_PASS="userpass"
+ROOT_PASS="rootpass"
+HOST_NAME="hostname"
+PACKAGES="git"
+SSH_PORT="1022"
+SSH_MAX_ATTEMPS="3"
