@@ -1,10 +1,5 @@
 # UBUNTU SERVER CONFIGURATION SCRIPTS
 
-* Download server_config repo
-* Copy script to server
-* Launch server
-* Start script
-
 * Install git package 
 ```sh
 sudo apt install git  -y
